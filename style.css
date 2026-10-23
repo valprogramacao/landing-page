@@ -162,14 +162,14 @@ button {
 }
 
 .receitas-titulo{
-    font-family: Montserrat;
+    font-family: Montserrat,sans-serif;
     font-size: 2rem;
     font-weight: 700;
     color: #fff2e7;
 }
 .receitas-subtitulo{
     color: #c7bab3;
-    font-family: Inter;
+    font-family: Inter, sans-serif;
     font-size: 1rem;
     font-weight: 400;
 }
@@ -206,21 +206,21 @@ button {
 
 .receita-titulo{
     color: #fff2e7;
-    font-family: Montserrat;
+    font-family: Montserrat,sans-serif;
     font-size: 1.5rem;
     font-weight: 700;
 }
 
 .receita-avaliacao{
     color: #756a67;
-    font-family: Inter;
+    font-family: Inter,sans-serif;
     font-size: 1rem;
     font-weight: 500;
 }
 
 .receita-descricao{
     color: #c7bab3;
-    font-family: Inter;
+    font-family: Inter,sans-serif;
     font-size: 1rem;
     font-weight: 400;
 }
@@ -238,7 +238,7 @@ button {
 }
 .receita-autor-nome{
     color: #c7bab3;
-    font-family: Inter;
+    font-family: Inter,sans-serif;
     font-size: 1rem;
     font-weight: 600;
 
@@ -253,13 +253,13 @@ footer{
 }
 .footer-copy{
     color: #fff2ef;
-    font-family: Inter;
+    font-family: Inter,sans-serif;
     font-size: 1rem;
     font-weight: 500;
 }
 .footer-autor{
 color: rgba(255, 242, 231, 0.50) ;
-font-family: Inter;
+font-family: Inter,sans-serif;
 font-size:1rem;
 font-weight: 500;
 
